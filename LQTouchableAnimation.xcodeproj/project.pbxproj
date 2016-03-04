@@ -7,6 +7,32 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7752827B1C8961A70065F8BD /* LQAnimationBackView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7752827A1C8961A70065F8BD /* LQAnimationBackView.m */; };
+		7752827E1C8963920065F8BD /* feed_game_icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7752827D1C8963920065F8BD /* feed_game_icon@2x.png */; };
+		775282971C8969D30065F8BD /* Fragment_1.png in Resources */ = {isa = PBXBuildFile; fileRef = 7752827F1C8969D30065F8BD /* Fragment_1.png */; };
+		775282981C8969D30065F8BD /* Fragment_2.png in Resources */ = {isa = PBXBuildFile; fileRef = 775282801C8969D30065F8BD /* Fragment_2.png */; };
+		775282991C8969D30065F8BD /* Fragment_3.png in Resources */ = {isa = PBXBuildFile; fileRef = 775282811C8969D30065F8BD /* Fragment_3.png */; };
+		7752829A1C8969D30065F8BD /* Fragment_4.png in Resources */ = {isa = PBXBuildFile; fileRef = 775282821C8969D30065F8BD /* Fragment_4.png */; };
+		7752829B1C8969D30065F8BD /* Fragment_5.png in Resources */ = {isa = PBXBuildFile; fileRef = 775282831C8969D30065F8BD /* Fragment_5.png */; };
+		7752829C1C8969D30065F8BD /* Fragment_6.png in Resources */ = {isa = PBXBuildFile; fileRef = 775282841C8969D30065F8BD /* Fragment_6.png */; };
+		7752829D1C8969D30065F8BD /* Fragment_7.png in Resources */ = {isa = PBXBuildFile; fileRef = 775282851C8969D30065F8BD /* Fragment_7.png */; };
+		7752829E1C8969D30065F8BD /* Fragment_8.png in Resources */ = {isa = PBXBuildFile; fileRef = 775282861C8969D30065F8BD /* Fragment_8.png */; };
+		7752829F1C8969D30065F8BD /* Fragment_9.png in Resources */ = {isa = PBXBuildFile; fileRef = 775282871C8969D30065F8BD /* Fragment_9.png */; };
+		775282A01C8969D30065F8BD /* Fragment_10.png in Resources */ = {isa = PBXBuildFile; fileRef = 775282881C8969D30065F8BD /* Fragment_10.png */; };
+		775282A11C8969D30065F8BD /* Fragment_11.png in Resources */ = {isa = PBXBuildFile; fileRef = 775282891C8969D30065F8BD /* Fragment_11.png */; };
+		775282A21C8969D30065F8BD /* Fragment_12.png in Resources */ = {isa = PBXBuildFile; fileRef = 7752828A1C8969D30065F8BD /* Fragment_12.png */; };
+		775282A31C8969D30065F8BD /* Fragment_13.png in Resources */ = {isa = PBXBuildFile; fileRef = 7752828B1C8969D30065F8BD /* Fragment_13.png */; };
+		775282A41C8969D30065F8BD /* Fragment_14.png in Resources */ = {isa = PBXBuildFile; fileRef = 7752828C1C8969D30065F8BD /* Fragment_14.png */; };
+		775282A51C8969D30065F8BD /* Fragment_15.png in Resources */ = {isa = PBXBuildFile; fileRef = 7752828D1C8969D30065F8BD /* Fragment_15.png */; };
+		775282A61C8969D30065F8BD /* Fragment_16.png in Resources */ = {isa = PBXBuildFile; fileRef = 7752828E1C8969D30065F8BD /* Fragment_16.png */; };
+		775282A71C8969D30065F8BD /* Fragment_17.png in Resources */ = {isa = PBXBuildFile; fileRef = 7752828F1C8969D30065F8BD /* Fragment_17.png */; };
+		775282A81C8969D30065F8BD /* Fragment_18.png in Resources */ = {isa = PBXBuildFile; fileRef = 775282901C8969D30065F8BD /* Fragment_18.png */; };
+		775282A91C8969D30065F8BD /* Fragment_19.png in Resources */ = {isa = PBXBuildFile; fileRef = 775282911C8969D30065F8BD /* Fragment_19.png */; };
+		775282AA1C8969D30065F8BD /* Fragment_20.png in Resources */ = {isa = PBXBuildFile; fileRef = 775282921C8969D30065F8BD /* Fragment_20.png */; };
+		775282AB1C8969D30065F8BD /* Fragment_21.png in Resources */ = {isa = PBXBuildFile; fileRef = 775282931C8969D30065F8BD /* Fragment_21.png */; };
+		775282AC1C8969D30065F8BD /* Fragment_22.png in Resources */ = {isa = PBXBuildFile; fileRef = 775282941C8969D30065F8BD /* Fragment_22.png */; };
+		775282AD1C8969D30065F8BD /* Fragment_23.png in Resources */ = {isa = PBXBuildFile; fileRef = 775282951C8969D30065F8BD /* Fragment_23.png */; };
+		775282AE1C8969D30065F8BD /* Fragment_24.png in Resources */ = {isa = PBXBuildFile; fileRef = 775282961C8969D30065F8BD /* Fragment_24.png */; };
 		77B99F111C89382A00225D7C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 77B99F101C89382A00225D7C /* main.m */; };
 		77B99F141C89382A00225D7C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 77B99F131C89382A00225D7C /* AppDelegate.m */; };
 		77B99F171C89382A00225D7C /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 77B99F161C89382A00225D7C /* ViewController.m */; };
@@ -16,6 +42,35 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		775282761C8954D50065F8BD /* LQTouchableAnimation-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "LQTouchableAnimation-Prefix.pch"; sourceTree = "<group>"; };
+		775282771C8954DE0065F8BD /* MacroUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MacroUtil.h; sourceTree = "<group>"; };
+		775282791C8961A70065F8BD /* LQAnimationBackView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LQAnimationBackView.h; sourceTree = "<group>"; };
+		7752827A1C8961A70065F8BD /* LQAnimationBackView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LQAnimationBackView.m; sourceTree = "<group>"; };
+		7752827D1C8963920065F8BD /* feed_game_icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "feed_game_icon@2x.png"; path = "images/feed_game_icon@2x.png"; sourceTree = "<group>"; };
+		7752827F1C8969D30065F8BD /* Fragment_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Fragment_1.png; path = images/Fragment_1.png; sourceTree = "<group>"; };
+		775282801C8969D30065F8BD /* Fragment_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Fragment_2.png; path = images/Fragment_2.png; sourceTree = "<group>"; };
+		775282811C8969D30065F8BD /* Fragment_3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Fragment_3.png; path = images/Fragment_3.png; sourceTree = "<group>"; };
+		775282821C8969D30065F8BD /* Fragment_4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Fragment_4.png; path = images/Fragment_4.png; sourceTree = "<group>"; };
+		775282831C8969D30065F8BD /* Fragment_5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Fragment_5.png; path = images/Fragment_5.png; sourceTree = "<group>"; };
+		775282841C8969D30065F8BD /* Fragment_6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Fragment_6.png; path = images/Fragment_6.png; sourceTree = "<group>"; };
+		775282851C8969D30065F8BD /* Fragment_7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Fragment_7.png; path = images/Fragment_7.png; sourceTree = "<group>"; };
+		775282861C8969D30065F8BD /* Fragment_8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Fragment_8.png; path = images/Fragment_8.png; sourceTree = "<group>"; };
+		775282871C8969D30065F8BD /* Fragment_9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Fragment_9.png; path = images/Fragment_9.png; sourceTree = "<group>"; };
+		775282881C8969D30065F8BD /* Fragment_10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Fragment_10.png; path = images/Fragment_10.png; sourceTree = "<group>"; };
+		775282891C8969D30065F8BD /* Fragment_11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Fragment_11.png; path = images/Fragment_11.png; sourceTree = "<group>"; };
+		7752828A1C8969D30065F8BD /* Fragment_12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Fragment_12.png; path = images/Fragment_12.png; sourceTree = "<group>"; };
+		7752828B1C8969D30065F8BD /* Fragment_13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Fragment_13.png; path = images/Fragment_13.png; sourceTree = "<group>"; };
+		7752828C1C8969D30065F8BD /* Fragment_14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Fragment_14.png; path = images/Fragment_14.png; sourceTree = "<group>"; };
+		7752828D1C8969D30065F8BD /* Fragment_15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Fragment_15.png; path = images/Fragment_15.png; sourceTree = "<group>"; };
+		7752828E1C8969D30065F8BD /* Fragment_16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Fragment_16.png; path = images/Fragment_16.png; sourceTree = "<group>"; };
+		7752828F1C8969D30065F8BD /* Fragment_17.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Fragment_17.png; path = images/Fragment_17.png; sourceTree = "<group>"; };
+		775282901C8969D30065F8BD /* Fragment_18.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Fragment_18.png; path = images/Fragment_18.png; sourceTree = "<group>"; };
+		775282911C8969D30065F8BD /* Fragment_19.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Fragment_19.png; path = images/Fragment_19.png; sourceTree = "<group>"; };
+		775282921C8969D30065F8BD /* Fragment_20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Fragment_20.png; path = images/Fragment_20.png; sourceTree = "<group>"; };
+		775282931C8969D30065F8BD /* Fragment_21.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Fragment_21.png; path = images/Fragment_21.png; sourceTree = "<group>"; };
+		775282941C8969D30065F8BD /* Fragment_22.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Fragment_22.png; path = images/Fragment_22.png; sourceTree = "<group>"; };
+		775282951C8969D30065F8BD /* Fragment_23.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Fragment_23.png; path = images/Fragment_23.png; sourceTree = "<group>"; };
+		775282961C8969D30065F8BD /* Fragment_24.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Fragment_24.png; path = images/Fragment_24.png; sourceTree = "<group>"; };
 		77B99F0C1C89382A00225D7C /* LQTouchableAnimation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LQTouchableAnimation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		77B99F101C89382A00225D7C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		77B99F121C89382A00225D7C /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -39,6 +94,38 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		7752827C1C8963170065F8BD /* images */ = {
+			isa = PBXGroup;
+			children = (
+				7752827F1C8969D30065F8BD /* Fragment_1.png */,
+				775282801C8969D30065F8BD /* Fragment_2.png */,
+				775282811C8969D30065F8BD /* Fragment_3.png */,
+				775282821C8969D30065F8BD /* Fragment_4.png */,
+				775282831C8969D30065F8BD /* Fragment_5.png */,
+				775282841C8969D30065F8BD /* Fragment_6.png */,
+				775282851C8969D30065F8BD /* Fragment_7.png */,
+				775282861C8969D30065F8BD /* Fragment_8.png */,
+				775282871C8969D30065F8BD /* Fragment_9.png */,
+				775282881C8969D30065F8BD /* Fragment_10.png */,
+				775282891C8969D30065F8BD /* Fragment_11.png */,
+				7752828A1C8969D30065F8BD /* Fragment_12.png */,
+				7752828B1C8969D30065F8BD /* Fragment_13.png */,
+				7752828C1C8969D30065F8BD /* Fragment_14.png */,
+				7752828D1C8969D30065F8BD /* Fragment_15.png */,
+				7752828E1C8969D30065F8BD /* Fragment_16.png */,
+				7752828F1C8969D30065F8BD /* Fragment_17.png */,
+				775282901C8969D30065F8BD /* Fragment_18.png */,
+				775282911C8969D30065F8BD /* Fragment_19.png */,
+				775282921C8969D30065F8BD /* Fragment_20.png */,
+				775282931C8969D30065F8BD /* Fragment_21.png */,
+				775282941C8969D30065F8BD /* Fragment_22.png */,
+				775282951C8969D30065F8BD /* Fragment_23.png */,
+				775282961C8969D30065F8BD /* Fragment_24.png */,
+				7752827D1C8963920065F8BD /* feed_game_icon@2x.png */,
+			);
+			name = images;
+			sourceTree = "<group>";
+		};
 		77B99F031C89382A00225D7C = {
 			isa = PBXGroup;
 			children = (
@@ -67,6 +154,8 @@
 				77B99F1D1C89382A00225D7C /* LaunchScreen.storyboard */,
 				77B99F201C89382A00225D7C /* Info.plist */,
 				77B99F0F1C89382A00225D7C /* Supporting Files */,
+				775282791C8961A70065F8BD /* LQAnimationBackView.h */,
+				7752827A1C8961A70065F8BD /* LQAnimationBackView.m */,
 			);
 			path = LQTouchableAnimation;
 			sourceTree = "<group>";
@@ -74,7 +163,10 @@
 		77B99F0F1C89382A00225D7C /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				7752827C1C8963170065F8BD /* images */,
+				775282771C8954DE0065F8BD /* MacroUtil.h */,
 				77B99F101C89382A00225D7C /* main.m */,
+				775282761C8954D50065F8BD /* LQTouchableAnimation-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -136,9 +228,34 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7752829A1C8969D30065F8BD /* Fragment_4.png in Resources */,
+				775282A51C8969D30065F8BD /* Fragment_15.png in Resources */,
+				775282A81C8969D30065F8BD /* Fragment_18.png in Resources */,
+				775282AE1C8969D30065F8BD /* Fragment_24.png in Resources */,
 				77B99F1F1C89382A00225D7C /* LaunchScreen.storyboard in Resources */,
+				775282A01C8969D30065F8BD /* Fragment_10.png in Resources */,
+				775282AB1C8969D30065F8BD /* Fragment_21.png in Resources */,
+				775282A31C8969D30065F8BD /* Fragment_13.png in Resources */,
 				77B99F1C1C89382A00225D7C /* Assets.xcassets in Resources */,
+				775282AA1C8969D30065F8BD /* Fragment_20.png in Resources */,
 				77B99F1A1C89382A00225D7C /* Main.storyboard in Resources */,
+				775282AD1C8969D30065F8BD /* Fragment_23.png in Resources */,
+				7752829E1C8969D30065F8BD /* Fragment_8.png in Resources */,
+				7752829D1C8969D30065F8BD /* Fragment_7.png in Resources */,
+				775282A11C8969D30065F8BD /* Fragment_11.png in Resources */,
+				775282A91C8969D30065F8BD /* Fragment_19.png in Resources */,
+				775282A21C8969D30065F8BD /* Fragment_12.png in Resources */,
+				775282A41C8969D30065F8BD /* Fragment_14.png in Resources */,
+				775282A61C8969D30065F8BD /* Fragment_16.png in Resources */,
+				7752829B1C8969D30065F8BD /* Fragment_5.png in Resources */,
+				775282971C8969D30065F8BD /* Fragment_1.png in Resources */,
+				775282991C8969D30065F8BD /* Fragment_3.png in Resources */,
+				775282A71C8969D30065F8BD /* Fragment_17.png in Resources */,
+				775282AC1C8969D30065F8BD /* Fragment_22.png in Resources */,
+				775282981C8969D30065F8BD /* Fragment_2.png in Resources */,
+				7752829C1C8969D30065F8BD /* Fragment_6.png in Resources */,
+				7752827E1C8963920065F8BD /* feed_game_icon@2x.png in Resources */,
+				7752829F1C8969D30065F8BD /* Fragment_9.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -150,6 +267,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				77B99F171C89382A00225D7C /* ViewController.m in Sources */,
+				7752827B1C8961A70065F8BD /* LQAnimationBackView.m in Sources */,
 				77B99F141C89382A00225D7C /* AppDelegate.m in Sources */,
 				77B99F111C89382A00225D7C /* main.m in Sources */,
 			);
@@ -203,6 +321,8 @@
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "/Users/renren/github-project/LQTouchableAnimation/LQTouchableAnimation/LQTouchableAnimation-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
@@ -213,9 +333,10 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
+				PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR = YES;
 				SDKROOT = iphoneos;
 			};
 			name = Debug;
@@ -244,14 +365,17 @@
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "/Users/renren/github-project/LQTouchableAnimation/LQTouchableAnimation/LQTouchableAnimation-Prefix.pch";
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
 				GCC_WARN_UNDECLARED_SELECTOR = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
+				PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR = YES;
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
@@ -261,8 +385,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "/Users/renren/github-project/LQTouchableAnimation/LQTouchableAnimation/LQTouchableAnimation-Prefix.pch";
 				INFOPLIST_FILE = LQTouchableAnimation/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = "luqcc-qq.com.LQTouchableAnimation";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -272,8 +399,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "/Users/renren/github-project/LQTouchableAnimation/LQTouchableAnimation/LQTouchableAnimation-Prefix.pch";
 				INFOPLIST_FILE = LQTouchableAnimation/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = "luqcc-qq.com.LQTouchableAnimation";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -298,6 +428,7 @@
 				77B99F251C89382A00225D7C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
